@@ -4,6 +4,7 @@ Display-Name: Go 1.2.2
 Version: "1.2.2"
 Versions: ["1.2.2","1.1.2", "1.0.3"]
 Website: https://github.com/smarterclayton/openshift-go-cart
+Source-Url: https://github.com/smarterclayton/openshift-go-cart.git
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: smarterclayton
 Categories:
